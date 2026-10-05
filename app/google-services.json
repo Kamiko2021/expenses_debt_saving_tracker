@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411841005539",
+    "project_id": "expenses-debt-saving-tracker",
+    "storage_bucket": "expenses-debt-saving-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411841005539:android:9520b3bb1c03ae540e42d6",
+        "android_client_info": {
+          "package_name": "com.example.expenses_debt_saving_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQSQ-OkanduObbZURW7IzHz4vM44P3lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
